@@ -1,0 +1,8 @@
+2. Adicionando arquivos
+Nesta etapa, adicionaremos novos arquivos, para isso abordaremos de duas maneiras distintas: através da interface e via linha de comando.
+
+2.1 Adicionando arquivos através da interface
+Ainda no seu navegador (tela do repositório criado), clique no botão sinalizado com “+” ou “Add file”, posicionado na parte central da tela e selecione “Upload Files”
+Informação: Caso você não esteja na página do seu repositório, você poderá acessá-la através da url no seguinte padrão:
+
+github.com/<proprietario>/<nomeRepositorio>
